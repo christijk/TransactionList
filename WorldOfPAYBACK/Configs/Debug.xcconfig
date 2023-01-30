@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  WorldOfPAYBACK
+//
+//  Created by Christi John on 30/01/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = https:/$()/api-test.payback.com
