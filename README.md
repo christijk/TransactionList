@@ -1,5 +1,5 @@
 # WorldOfPAYBACK
-iOS app to display a list of transactions, and a corresponding detail screen for each.
+##iOS app to display a list of transactions, and a corresponding detail screen for each.
 
 # Requirements
 
