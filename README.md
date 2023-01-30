@@ -1,11 +1,5 @@
 # WorldOfPAYBACK
-##iOS app to display a list of transactions, and a corresponding detail screen for each.
-
-# Requirements
-
-- iOS 15.0+
-- Xcode 14+
-- Swift 5+
+iOS app to display a list of transactions, and a corresponding detail screen for each.
 
 ## Overview
 
@@ -20,6 +14,12 @@
 	- Randomly API call fails, which will be informed to customer as an alert with a 'Retry' option 
 	- You can navigate to the details by tapping on a transaction.
 * Feed, Shop, Settings tabs are for future development
+
+# Requirements
+
+- iOS 15.0+
+- Xcode 14+
+- Swift 5+
 
 
 ## How To
